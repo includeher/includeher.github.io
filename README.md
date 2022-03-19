@@ -1,2 +1,1 @@
-# includeher.github.io
-The official website of the IncludeHer movement.
+Repository for the official website of the IncludeHer movement.

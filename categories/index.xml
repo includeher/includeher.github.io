@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on IncludeHer</title>
+    <link>https://includeher.github.io/categories/</link>
+    <description>Recent content in Categories on IncludeHer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://includeher.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Author</title>
+      <link>https://includeher.github.io/categories/author/</link>
+      <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://includeher.github.io/categories/author/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Author Profile</title>
+      <link>https://includeher.github.io/categories/author-profile/</link>
+      <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://includeher.github.io/categories/author-profile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Profile</title>
+      <link>https://includeher.github.io/categories/profile/</link>
+      <pubDate>Thu, 03 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://includeher.github.io/categories/profile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Historic</title>
+      <link>https://includeher.github.io/categories/historic/</link>
+      <pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://includeher.github.io/categories/historic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Historic Scientist Profile</title>
+      <link>https://includeher.github.io/categories/historic-scientist-profile/</link>
+      <pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://includeher.github.io/categories/historic-scientist-profile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scientist</title>
+      <link>https://includeher.github.io/categories/scientist/</link>
+      <pubDate>Sun, 23 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://includeher.github.io/categories/scientist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Logos</title>
+      <link>https://includeher.github.io/categories/logos/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      
+      <guid>https://includeher.github.io/categories/logos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social Media</title>
+      <link>https://includeher.github.io/categories/social-media/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      
+      <guid>https://includeher.github.io/categories/social-media/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
